@@ -1,0 +1,12 @@
+C:\code\matc\itdev162\Jose-Federico\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\code\matc\itdev162\Jose-Federico\Domain\bin\Debug\net6.0\Domain.dll
+C:\code\matc\itdev162\Jose-Federico\Domain\bin\Debug\net6.0\Domain.pdb
+C:\code\matc\itdev162\Jose-Federico\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+C:\code\matc\itdev162\Jose-Federico\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\matc\itdev162\Jose-Federico\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\code\matc\itdev162\Jose-Federico\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\code\matc\itdev162\Jose-Federico\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\code\matc\itdev162\Jose-Federico\Domain\obj\Debug\net6.0\Domain.dll
+C:\code\matc\itdev162\Jose-Federico\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\code\matc\itdev162\Jose-Federico\Domain\obj\Debug\net6.0\Domain.pdb
+C:\code\matc\itdev162\Jose-Federico\Domain\obj\Debug\net6.0\ref\Domain.dll
